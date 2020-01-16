@@ -1,5 +1,9 @@
 --SQL Drill III
 
+!!!!!!
+--!!!!!!!THE drawio file is in tis repository. It's directory is sql-for-data-scientists/SQL_drill_3.drawio!!!!!!!
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
 /* Write a query that returns the namefirst and namelast fields of the people table, 
 along with the inducted field from the hof_inducted table. All rows from the people 
 table should be returned, and NULL values for the fields from hof_inducted should be 
